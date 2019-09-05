@@ -1,0 +1,6 @@
+*.bak
+.env
+.env.example
+important_urls.txt
+**/logs
+Thumbs.db
